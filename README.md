@@ -45,16 +45,4 @@ This project was developed made by me to my class of initial concepts in React, 
     yarn run dev
   ```
 
-## :wave: Social
 
-Follow me @gabriellennon :wink:
-<br />
-
-- [Instagram](https://www.instagram.com/gabriellennon/?hl=pt-br)
-- [LinkedIn](https://www.linkedin.com/in/gabriel-lennon-79a639169/)
-
-<br />
-
----
-
-[ts]: https://www.typescriptlang.org
